@@ -274,7 +274,7 @@ body
             formData.append('subject', this.subject)
             formData.append('message', this.message)
             axios.post(
-                API_LINK+"Admin/contact",
+                API_LINK+"admin/contact",
                 formData
             )
             .then((Response)=>{
@@ -289,7 +289,7 @@ body
             const formData = new FormData()
             formData.append('email', this.email)
             axios.post(
-                API_LINK+"Admin/register",
+                API_LINK+"admin/register",
                 formData,
             )
             .then((Response)=>{

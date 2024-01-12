@@ -361,7 +361,7 @@ body
         },
         HttpGet(API_to){
             axios.get(
-                API_LINK+"Admin/"+API_to
+                API_LINK+"admin/"+API_to
             ).then((Response) => {
                 if (Response.status == 200) {
                     this.listData =  Response.data['data'];
@@ -376,7 +376,7 @@ body
             formData.append('testimony', this.testimony)
 
             axios.post(
-                API_LINK+"Admin/addtestimony",
+                API_LINK+"admin/addtestimony",
                 formData,
             )
             .then((Response)=>{
@@ -390,7 +390,7 @@ body
             const formData = new FormData()
             formData.append('email', this.email)
             axios.post(
-                API_LINK+"Admin/register",
+                API_LINK+"admin/register",
                 formData,
             )
             .then((Response)=>{

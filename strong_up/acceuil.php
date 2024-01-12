@@ -1077,7 +1077,7 @@ body
     methods : {
         HttpGet(API_to){
             axios.get(
-                API_LINK+"Admin/"+API_to
+                API_LINK+"admin/"+API_to
             ).then((Response) => {
                 if (Response.status == 200) {
                     switch (API_to) {
