@@ -5,9 +5,14 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Ets Strong-UP</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta property="og:image" content="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.jpg">
+  <meta property="og:title" content="Strong-UP">
+  <meta property="og:description" content="Nous sommes une entreprise de droits congolais, œuvrant dans la communication visuelle et le commerce de détail, spécialisée en développement de solution de marketing, Design graphique, Image de marge et l’impression numérique de grand et petit format. Avec une expérience de près de cinq ans dans le domaine. Les problèmes de communication sont encore omniprésents dans nos entreprises locales ; ne pas les résoudre peut causer des dommages au sein de l’organisation : perte de temps et d’argent, baisse de la productivité mais surtout un désengagement de la part des employés concernés. Aujourd’hui, pour toucher efficacement vos prospects vous devrez donc vous préparer et communiquer de manière astucieuse avec le marketing intelligent. Notre entreprise offre deux canaux de communication externe : la communication online et offline, un duo gagnant aux producteurs locaux, aux entreprises privées, aux fonctionnaires libéraux, aux boites d’évènements, etc">
+  <meta property="og:url" content="<?=base_url()?>">
+
+  <title>Strong-UP</title>
+  <meta content="Nous sommes une entreprise de droits congolais, œuvrant dans la communication visuelle et le commerce de détail, spécialisée en développement de solution de marketing, Design graphique, Image de marge et l’impression numérique de grand et petit format. Avec une expérience de près de cinq ans dans le domaine. Les problèmes de communication sont encore omniprésents dans nos entreprises locales ; ne pas les résoudre peut causer des dommages au sein de l’organisation : perte de temps et d’argent, baisse de la productivité mais surtout un désengagement de la part des employés concernés. Aujourd’hui, pour toucher efficacement vos prospects vous devrez donc vous préparer et communiquer de manière astucieuse avec le marketing intelligent. Notre entreprise offre deux canaux de communication externe : la communication online et offline, un duo gagnant aux producteurs locaux, aux entreprises privées, aux fonctionnaires libéraux, aux boites d’évènements, etc" name="description">
+  <meta content="Nous avons pour mission de maintenir et s’assurer de la bonne communication visuelle ; en créant un lien entre la communication offline et la communication online. Nous vous invitons à découvrir votre univers, ou chaque idée prend vie. Ensemble, faisons grandir votre présence avec une approche professionnelle, alliant créativité, technologie et expertise" name="keywords">
 
   <!-- Favicons -->
   <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.jpg" rel="icon">
@@ -101,7 +106,7 @@ body
           </div>
 
           <!-- Slide 1 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -149,7 +154,7 @@ body
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.JPG)">
             <div class="carousel-container">
               <div class="container">
                   <h2 class="animate__animated animate__fadeInDown">
@@ -173,7 +178,7 @@ body
           </div>
 
           <!-- Slide 4 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2>
@@ -193,7 +198,7 @@ body
           </div>
 
           <!-- Slide 5 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2>
