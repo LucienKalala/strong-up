@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.JPG" rel="icon">
+  <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.jpg" rel="icon">
   <link href="<?=base_url('strong_up')?>/assets/img/icon/Icone STRONG UP.PNG" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -45,7 +45,7 @@ body
 
         <h1 class="logo me-auto">
           <a href="<?=base_url()?>">
-            <img src="<?=base_url('strong_up')?>/assets/img/icon/logo.JPG" class="img-fluid" alt=""> <span class="d-none">Strong UP</span> 
+            <img src="<?=base_url('strong_up')?>/assets/img/icon/logo.jpg" class="img-fluid" alt=""> <span class="d-none">Strong UP</span> 
           </a>
         </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
@@ -79,7 +79,7 @@ body
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 0 -->
-          <div class="carousel-item active" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1.JPG)">
+          <div class="carousel-item active" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"> STRONG-UP </h2>
@@ -89,7 +89,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1C.jpg)">
             <div class="carousel-container">
               <div class="container">
                  <!-- <h2 class="animate__animated animate__fadeInDown"> STRONG-UP </h2>
@@ -101,7 +101,7 @@ body
           </div>
 
           <!-- Slide 1 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil2.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -112,7 +112,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil2C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil2C.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">
@@ -125,7 +125,7 @@ body
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil3.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil3.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -136,7 +136,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil3C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil3C.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown">
@@ -149,7 +149,7 @@ body
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil4.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil4.jpg)">
             <div class="carousel-container">
               <div class="container">
                   <h2 class="animate__animated animate__fadeInDown">
@@ -160,7 +160,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil4C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil4C.jpg)">
             <div class="carousel-container">
               <div class="container">
                   <!-- <h2 class="animate__animated animate__fadeInDown">
@@ -173,7 +173,7 @@ body
           </div>
 
           <!-- Slide 4 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil5.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil5.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2>
@@ -182,7 +182,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil5C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil5C.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2> -->
@@ -193,7 +193,7 @@ body
           </div>
 
           <!-- Slide 5 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2>
@@ -202,7 +202,7 @@ body
               </div>
             </div>
           </div>
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6C.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6C.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <!-- <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2> -->
