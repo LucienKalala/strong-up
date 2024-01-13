@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-if (ENVIRONMENT == 'production') {
+if (ENVIRONMENT == 'production' or ENVIRONMENT == 'testing') {
     $config['base_url'] = 'https://strong-up.org/';
 }else{
     $config['base_url'] = 'http://strong-up/';
