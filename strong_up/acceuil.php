@@ -106,7 +106,7 @@ body
           </div>
 
           <!-- Slide 1 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -154,7 +154,7 @@ body
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.jpg)">
             <div class="carousel-container">
               <div class="container">
                   <h2 class="animate__animated animate__fadeInDown">
@@ -178,7 +178,7 @@ body
           </div>
 
           <!-- Slide 4 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2>
@@ -197,7 +197,7 @@ body
           </div>
 
           <!-- Slide 5 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.JPG)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.jpg)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2>
