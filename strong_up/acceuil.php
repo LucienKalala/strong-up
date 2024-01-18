@@ -84,13 +84,12 @@ body
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 0 -->
-          <div class="carousel-item active" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1.jpg)">
+          <div class="carousel-item active" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil1.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"> STRONG-UP </h2>
                 <h2 class="animate__animated animate__fadeInUp" style="font-size: 30px;">RCCM 22-A-00467</h2>
                 <h2 class="animate__animated animate__fadeInUp" style="font-size: 30px;">ID.NAT: 22-M7300-N15432Z</h2>
-                <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">BIENVENUE</a> -->
               </div>
             </div>
           </div>
@@ -106,7 +105,7 @@ body
           </div>
 
           <!-- Slide 1 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.png)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -154,7 +153,7 @@ body
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4.JPG)">
             <div class="carousel-container">
               <div class="container">
                   <h2 class="animate__animated animate__fadeInDown">
@@ -178,7 +177,7 @@ body
           </div>
 
           <!-- Slide 4 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2>
@@ -197,7 +196,7 @@ body
           </div>
 
           <!-- Slide 5 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.jpg)">
+          <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2>
