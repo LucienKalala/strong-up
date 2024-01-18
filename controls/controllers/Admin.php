@@ -35,7 +35,7 @@ class Admin extends CI_Controller {
 		if(!empty($id)){
 			redirect('admin/view/index','admin/view/index');
 		}
-		$data['title'] = 'Ets STRONG UP';
+		$data['title'] = 'STRONG UP';
 		$data['page'] = '';
 		$data['sideBar'] = $this->sideBar();
 		$this->load->view('admin/header',$data);
@@ -141,7 +141,7 @@ class Admin extends CI_Controller {
 		}
 		$page = empty($page) ? 'index' : $page;
 		$data['page'] = $page;
- 		$data['title'] = 'Ets STRONG UP';
+ 		$data['title'] = 'STRONG UP';
 		$data['sideBar'] = $this->sideBar();
 		$this->load->view('admin/header',$data);
 		$this->load->view('admin/'.$page,$data);

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Etablisement Strong UP</title>
+  <title>Strong UP</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -58,13 +58,14 @@ body
             <ul>
               <li><a href="<?=base_url()?>#about">TOUS SUR NOUS</a></li>
               <li><a href="<?=base_url()?>#team">EQUIPES</a></li>
+              <li><a href="<?=base_url('content/view/')?>testimonials">TEMOIGNAGE</a></li>
             </ul>
           </li>
-          <li><a href="<?=base_url('content/view/')?>testimonials">TEMOIGNAGE</a></li>
-          <li><a href="<?=base_url()?>#services">SERVICES</a></li>
-          <li><a href="<?=base_url()?>#portfolio">TRAVAUX</a></li>
-          <li><a href="<?=base_url('content/view/')?>contact">CONTACTS</a></li>
-          <li><a href="<?=base_url('content/view/')?>testimonials#footer" class="getstarted">Restons en contacts</a></li>
+          
+          <li><a href="<?=base_url()?>#services">NOS SERVICES</a></li>
+          <li><a href="<?=base_url()?>#portfolio">GALLERIE</a></li>
+          <li><a href="<?=base_url('content/view/')?>contact">NOUS CONTACTER</a></li>
+          <!-- <li><a href="<?=base_url('content/view/')?>testimonials#footer" class="getstarted">Restons en contacts</a></li> -->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -201,13 +202,13 @@ body
             <div class="col-lg-3 col-md-6">
               <div class="footer-info">
                 <h3>
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="100" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="150" alt="">
                 </h3>
                 <p>
                   Lubumbashi <br>
                   HAUT-KATANGA, RDC<br>
-                  Bukavu <br>
-                  SUD-KIVU, RDC<br>
+                  <!-- Bukavu <br>
+                  SUD-KIVU, RDC<br> -->
                   <strong>Téléphone:</strong> +234 970 759 002<br>
                   <strong>Email:</strong> contact@strong-up.org<br>
                 </p>
@@ -226,7 +227,7 @@ body
             <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>">Acceuil</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>#about">A Propos</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>#services">Nos Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>#portfolio">Gallerie</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url('content/view/')?>contact">Contacts</a></li>
             </ul>

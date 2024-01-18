@@ -62,13 +62,13 @@ body
               <ul>
                 <li><a href="#about">TOUS SUR NOUS</a></li>
                 <li><a href="#team">EQUIPES</a></li>
+                <li><a href="<?=base_url('content/view/')?>testimonials">TEMOIGNAGE</a></li>
               </ul>
             </li>
-            <li><a href="<?=base_url('content/view/')?>testimonials">TEMOIGNAGE</a></li>
-            <li><a href="#services">SERVICES</a></li>
-            <li><a href="#portfolio">TRAVAUX</a></li>
-            <li><a href="<?=base_url('content/view/')?>contact">CONTACTS</a></li>
-            <li><a href="<?=base_url()?>#footer" class="getstarted">Restons en contacts</a></li>
+            <li><a href="#services">NOS SERVICES</a></li>
+            <li><a href="#portfolio">GALLERIE</a></li>
+            <li><a href="<?=base_url('content/view/')?>contact">NOUS CONTACTER</a></li>
+            <!-- <li><a href="<?=base_url()?>#footer" class="getstarted">Restons en contacts</a></li> -->
           </ul>
           <i class="bi mobile-nav-toggle bi-list"></i>
         </nav><!-- .navbar -->
@@ -97,10 +97,10 @@ body
           <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil1C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                 <!-- <h2 class="animate__animated animate__fadeInDown"> STRONG-UP </h2>
-                <h2 class="animate__animated animate__fadeInUp " style="font-size: 30px;">RCCM 22-A-00467</h2>
-                <h2 class="animate__animated animate__fadeInUp " style="font-size: 30px;">ID.NAT: 22-M7300-N15432Z</h2> -->
-                <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">BIENVENUE</a>
+                <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
+                <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">BIENVENUE</a>
               </div>
             </div>
           </div>
@@ -120,11 +120,11 @@ body
           <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown">
-                  <span class="text-decoration-none">Arrêtez d’être invisible !</span>
-                </h2> -->
+                <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
                 <p class="animate__animated animate__fadeInUp"></p>
-                <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
+                <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
             </div>
           </div>
@@ -144,11 +144,11 @@ body
           <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil3C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown">
-                  <span class="text-decoration-none">Tu peux avoir un meilleur produit mais si tu n’es connu, En bien! Tu n’iras nulle part. </span>
-                </h2> -->
+              <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
                 <p class="animate__animated animate__fadeInUp"></p>
-                <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
+                <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
             </div>
           </div>
@@ -168,11 +168,11 @@ body
           <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil4C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                  <!-- <h2 class="animate__animated animate__fadeInDown">
-                    <span class="text-decoration-none">Votre marque a besoin de plus de visibilité online & offline</span>
-                  </h2> -->
+              <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
                   <p class="animate__animated animate__fadeInUp"></p>
-                  <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
+                  <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
             </div>
           </div>
@@ -182,17 +182,16 @@ body
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2>
-                <!-- <p class="animate__animated animate__fadeInUp">Bienvenu sur notre espace, tout ce que vous devez savoir est ici.</p> -->
-                <!-- <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plu</a> -->
               </div>
             </div>
           </div>
           <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil5C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none">La solution d’impression numérique pour la promotion de votre organisation</span></h2> -->
-                <!-- <p class="animate__animated animate__fadeInUp">Bienvenu sur notre espace, tout ce que vous devez savoir est ici.</p> -->
-                <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
+                <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
+                <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
             </div>
           </div>
@@ -202,17 +201,16 @@ body
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2>
-                <!-- <p class="animate__animated animate__fadeInUp">Bienvenu sur notre espace, tout ce que vous devez savoir est ici.</p> -->
-                <!-- <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">En savoir Plus</a> -->
               </div>
             </div>
           </div>
           <div class="carousel-item" style="background-image: url(<?=base_url('strong_up')?>/assets/img/slide/Photo-Accueil6C.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <!-- <h2 class="animate__animated animate__fadeInDown"><span class="text-decoration-none"></span> Vous etez près ?</h2> -->
-                <!-- <p class="animate__animated animate__fadeInUp">Bienvenu sur notre espace, tout ce que vous devez savoir est ici.</p> -->
-                <a href="#about" class="btn btn bg-white text-danger fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
+              <h2 class="animate__animated animate__fadeInDown"> 
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                </h2>
+                <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
             </div>
           </div>
@@ -232,7 +230,7 @@ body
 
     <div class="container-fluid">
       <div class="row">
-        <div class="col-12 bg-danger p-4 rounded-bottom-5"></div>
+        <div class="col-12 bg-danger p-1"></div>
       </div>
     </div>
 
@@ -284,7 +282,7 @@ body
             </div>
           </div>
         </div>
-        <div class="container-fluid bg-danger mt-4">
+        <div class="container-fluid bg-danger rounded-top-4 rounded-bottom-4 mt-4">
           <div class="row content">
             <div class="col-md-12 mt-2 pt-lg-0">
               <div class="text-center">
@@ -433,7 +431,7 @@ body
 
           <div class="row mt-2">
             <div class="col-md-12 mb-2 text-center">
-              <h3 class="fw-bolder fw-bolder text-danger fw-bolder fs-2">SERVICES </h3>
+              <h3 class="fw-bolder fw-bolder text-danger fw-bolder fs-2">NOS SERVICES </h3>
             </div>
             <div class="col-md-6">
               <div class="icon-box bg-danger service-card">
@@ -968,25 +966,25 @@ body
     </main><!-- End #main -->
 
     <!-- ======= Footer ======= -->
-    <footer id="footer">
+    <footer id="footer" style="margin-top: 5%;">
       <div class="footer-top">
         <div class="container">
           <div class="row">
             <div class="col-lg-3 col-md-6">
               <div class="footer-info">
                 <h3>
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="100" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="150" alt="">
                 </h3>
                 <p>
                   Lubumbashi <br>
                   HAUT-KATANGA, RDC<br>
-                  Bukavu <br>
-                  SUD-KIVU, RDC<br>
+                  <!-- Bukavu <br>
+                  SUD-KIVU, RDC<br> -->
                   <strong>Téléphone:</strong> +234 970 759 002<br>
                   <strong>Email:</strong> contact@strong-up.org<br>
                 </p>
                 <div class="social-links mt-3">
-                  <a href="https://twitter.com/ets.strong_up" class="twitter"><i class="bi bi-twitter-x"></i></a>
+                  <!-- <a href="https://twitter.com/ets.strong_up" class="twitter"><i class="bi bi-twitter-x"></i></a> -->
                   <a href="https://facebook.com/ets.strong_up" class="facebook"><i class="bx bxl-facebook"></i></a>
                   <a href="https://instagram.com/ets.strong_up" class="instagram"><i class="bx bxl-instagram"></i></a>
                   <a href="https://www.linkedin.com/in/ets.strong_up" class="google-plus"><i class="bx bxl-linkedin"></i></a>
@@ -999,7 +997,7 @@ body
               <ul>
                 <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url()?>">Acceuil</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#about">A Propos</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#services">Nos Services</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Gallerie</a></li>
                 <li><i class="bx bx-chevron-right"></i> <a href="<?=base_url('content/view/')?>contact">Contacts</a></li>
               </ul>

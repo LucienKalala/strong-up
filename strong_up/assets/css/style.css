@@ -780,11 +780,11 @@ section {
   z-index: 1;
   background: rgba(85, 98, 112, 0.6);
   width: auto;
-  height: 300px;
+  /* height: 300px; */
 }
 
 .portfolio .portfolio-wrap img { 
-  padding: 15%;
+  padding: 1%;
   width: inherit;
   height: inherit;
 }
