@@ -97,7 +97,7 @@ body
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png"  class="img-fluid" width="300" alt="">
                 </h2>
                 <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">BIENVENUE</a>
               </div>
@@ -105,7 +105,7 @@ body
           </div>
 
           <!-- Slide 1 -->
-          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.png)">
+          <div class="carousel-item" style="background-image: url(<?=base_url()?>strong_up/assets/img/slide/Photo-Accueil2.JPG)">
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">
@@ -120,7 +120,7 @@ body
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" class="img-fluid" width="300" alt="">
                 </h2>
                 <p class="animate__animated animate__fadeInUp"></p>
                 <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
@@ -144,7 +144,7 @@ body
             <div class="carousel-container">
               <div class="container">
               <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" class="img-fluid" width="300" alt="">
                 </h2>
                 <p class="animate__animated animate__fadeInUp"></p>
                 <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
@@ -168,7 +168,7 @@ body
             <div class="carousel-container">
               <div class="container">
               <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" class="img-fluid" width="300" alt="">
                 </h2>
                   <p class="animate__animated animate__fadeInUp"></p>
                   <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
@@ -188,7 +188,7 @@ body
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" class="img-fluid" width="300" alt="">
                 </h2>
                 <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
@@ -207,7 +207,7 @@ body
             <div class="carousel-container">
               <div class="container">
               <h2 class="animate__animated animate__fadeInDown"> 
-                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" width="300" alt="">
+                  <img src="<?=base_url('strong_up')?>/assets/img/icon/Logo en bas.png" class="img-fluid" width="300" alt="">
                 </h2>
                 <a href="#about" class="btn btn text-white fs-3 animate__animated animate__fadeInUp scrollto">En savoir Plus</a>
               </div>
