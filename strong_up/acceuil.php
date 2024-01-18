@@ -15,7 +15,7 @@
   <meta content="Nous avons pour mission de maintenir et s’assurer de la bonne communication visuelle ; en créant un lien entre la communication offline et la communication online. Nous vous invitons à découvrir votre univers, ou chaque idée prend vie. Ensemble, faisons grandir votre présence avec une approche professionnelle, alliant créativité, technologie et expertise" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.jpg" rel="icon">
+  <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.JPG" rel="icon">
   <link href="<?=base_url('strong_up')?>/assets/img/icon/Icone STRONG UP.PNG" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -50,7 +50,7 @@ body
 
         <h1 class="logo me-auto">
           <a href="<?=base_url()?>">
-            <img src="<?=base_url('strong_up')?>/assets/img/icon/logo.jpg" class="img-fluid" alt=""> <span class="d-none">Strong UP</span> 
+            <img src="<?=base_url('strong_up')?>/assets/img/icon/logo.JPG" class="img-fluid" alt=""> <span class="d-none">Strong UP</span> 
           </a>
         </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
