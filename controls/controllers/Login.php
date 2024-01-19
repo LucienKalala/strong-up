@@ -29,7 +29,7 @@ class Login extends CI_Controller {
 	{
 		$all_headers = getallheaders();
 		echo '<pre>';
-			var_dump($all_headers);
+			print_r($all_headers);
 		echo '</pre>';
 var_dump(substr($all_headers['Hautajuwamabore'], 0, strlen("Basic")));
 return;
