@@ -28,11 +28,8 @@ class Login extends CI_Controller {
 	public function index()
 	{
 		$all_headers = getallheaders();
-var_dump($all_headers['HautaJuwaMaBore']);
-var_dump(substr($all_headers['HautaJuwaMaBore'], 0, strlen("Basic")));
-return;
-		if(substr($all_headers['HautaJuwaMaBore'], 0, strlen("Basic")) === "Basic"){
-			$authData = substr($all_headers['HautaJuwaMaBore'], 6, strlen($all_headers['HautaJuwaMaBore']));
+		if(substr($all_headers['Hautajuwamabore'], 0, strlen("Basic")) === "Basic"){
+			$authData = substr($all_headers['Hautajuwamabore'], 6, strlen($all_headers['Hautajuwamabore']));
 			$userData = explode(":", base64_decode($authData));
 			$username = $userData[0];
 			$password = $userData[1];
