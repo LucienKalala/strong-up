@@ -256,7 +256,7 @@ body
 
     <div class="container">
       <div class="copyright">
-        &copy; Droit d'auteur <strong><span>2023</span></strong>. <br>
+        &copy; Droit d'auteur <strong><span><?=date('Y')?></span></strong>. <br>
         Tous les droits reserver
       </div>
       <div class="credits">
