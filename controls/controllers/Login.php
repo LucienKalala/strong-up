@@ -28,7 +28,7 @@ class Login extends CI_Controller {
 	public function index()
 	{
 		$all_headers = getallheaders();
-var_dump($all_headers['Hautajuwamabore']);
+var_dump($all_headers);
 var_dump(substr($all_headers['Hautajuwamabore'], 0, strlen("Basic")));
 return;
 		if(substr($all_headers['Hautajuwamabore'], 0, strlen("Basic")) === "Basic"){
