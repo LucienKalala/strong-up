@@ -82,7 +82,7 @@
             axios.post(
                     this.http+"login","",{
                         headers: {
-                            "HautaJuwaMaBore":this.AuthEncript(this.user,this.password)
+                            "Hautajuwamabore":this.AuthEncript(this.user,this.password)
                         }
                     }
                 )
