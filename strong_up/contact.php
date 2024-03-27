@@ -12,7 +12,7 @@
 
   <title>STRONG-UP</title>
   <meta content="Communication & plus Ne restez plus dans l'ombre. Nous vous rendons visible " name="description">
-  <meta content="Nous avons pour mission de maintenir et s’assurer de la bonne communication visuelle ; en créant un lien entre la communication offline et la communication online. Nous vous invitons à découvrir votre univers, ou chaque idée prend vie. Ensemble, faisons grandir votre présence avec une approche professionnelle, alliant créativité, technologie et expertise" name="keywords">
+  <meta content="Communication & plus Ne restez plus dans l'ombre. Nous vous rendons visible" name="keywords">
 
   <!-- Favicons -->
   <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.JPG" rel="icon">
