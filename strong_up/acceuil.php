@@ -6,17 +6,17 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <meta property="og:image" content="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.jpg">
-  <meta property="og:title" content="Strong-UP">
-  <meta property="og:description" content="Nous sommes une entreprise de droits congolais, œuvrant dans la communication visuelle et le commerce de détail, spécialisée en développement de solution de marketing, Design graphique, Image de marge et l’impression numérique de grand et petit format. Avec une expérience de près de cinq ans dans le domaine. Les problèmes de communication sont encore omniprésents dans nos entreprises locales ; ne pas les résoudre peut causer des dommages au sein de l’organisation : perte de temps et d’argent, baisse de la productivité mais surtout un désengagement de la part des employés concernés. Aujourd’hui, pour toucher efficacement vos prospects vous devrez donc vous préparer et communiquer de manière astucieuse avec le marketing intelligent. Notre entreprise offre deux canaux de communication externe : la communication online et offline, un duo gagnant aux producteurs locaux, aux entreprises privées, aux fonctionnaires libéraux, aux boites d’évènements, etc">
+  <meta property="og:title" content="STRONG-UP">
+  <meta property="og:description" content="Communication & plus Ne restez plus dans l'ombre. Nous vous rendons visible">
   <meta property="og:url" content="<?=base_url()?>">
 
-  <title>Strong-UP</title>
-  <meta content="Nous sommes une entreprise de droits congolais, œuvrant dans la communication visuelle et le commerce de détail, spécialisée en développement de solution de marketing, Design graphique, Image de marge et l’impression numérique de grand et petit format. Avec une expérience de près de cinq ans dans le domaine. Les problèmes de communication sont encore omniprésents dans nos entreprises locales ; ne pas les résoudre peut causer des dommages au sein de l’organisation : perte de temps et d’argent, baisse de la productivité mais surtout un désengagement de la part des employés concernés. Aujourd’hui, pour toucher efficacement vos prospects vous devrez donc vous préparer et communiquer de manière astucieuse avec le marketing intelligent. Notre entreprise offre deux canaux de communication externe : la communication online et offline, un duo gagnant aux producteurs locaux, aux entreprises privées, aux fonctionnaires libéraux, aux boites d’évènements, etc" name="description">
+  <title>STRONG-UP</title>
+  <meta content="Communication & plus Ne restez plus dans l'ombre. Nous vous rendons visible " name="description">
   <meta content="Nous avons pour mission de maintenir et s’assurer de la bonne communication visuelle ; en créant un lien entre la communication offline et la communication online. Nous vous invitons à découvrir votre univers, ou chaque idée prend vie. Ensemble, faisons grandir votre présence avec une approche professionnelle, alliant créativité, technologie et expertise" name="keywords">
 
   <!-- Favicons -->
   <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.JPG" rel="icon">
-  <link href="<?=base_url('strong_up')?>/assets/img/icon/Icone STRONG UP.PNG" rel="apple-touch-icon">
+  <link href="<?=base_url('strong_up')?>/assets/img/icon/Logo 4.JPG" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
