@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 if (ENVIRONMENT == 'production') {
-    $config['base_url'] = 'https://strong-up.org/';
+    $config['base_url'] = 'https://www.strong-up.org/';
 }else{
     $config['base_url'] = 'http://strong-up/';
 }
