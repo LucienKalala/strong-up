@@ -27,7 +27,7 @@ class Home extends CI_Controller {
 
 	public function index()
 	{
-		//$this->load->view('acceuil');
-		$this->load->view('not_found');
+		$this->load->view('acceuil');
+		//$this->load->view('not_found');
 	}
 }
